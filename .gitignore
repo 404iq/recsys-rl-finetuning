@@ -1,0 +1,30 @@
+# данные и архивы
+data/
+*.zip
+*.csv.gz
+
+# окружения и секреты
+.venv/
+venv/
+.env
+
+# jupyter
+.ipynb_checkpoints/
+
+# тяжёлые артефакты: чекпойнты моделей и кэш тяжёлых шагов
+checkpoints/
+cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.parquet
+
+# python / ОС
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# лёгкие результаты (results/*.json, *.csv, *.png, logs/) НЕ игнорируем: их коммитим
