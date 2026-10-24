@@ -1,0 +1,11 @@
+# На Kaggle почти всё уже установлено; файл нужен для воспроизведения вне Kaggle.
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+matplotlib
+tqdm
+torch
+transformers
+jupyter
