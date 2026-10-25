@@ -1,11 +1,11 @@
-# На Kaggle почти всё уже установлено; файл нужен для воспроизведения вне Kaggle.
-numpy
-pandas
-pyarrow
-scipy
-scikit-learn
-matplotlib
-tqdm
-torch
-transformers
+# Версии, на которых ноутбук проверен локально (режим SMOKE). На Kaggle используются версии образа.
+numpy==2.5.4
+pandas==3.1.0
+pyarrow==26.0.0
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+tqdm==4.70.1
+torch==2.14.1
+transformers==5.20.2
 jupyter
