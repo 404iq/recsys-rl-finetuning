@@ -1,6 +1,6 @@
 # recsys-rl-finetuning
 
-RL-дообучение последовательной рекомендательной модели (GPT-2) на данных KION (МТС): reward model по доле просмотра, GRPO с KL-штрафом к базовой модели и разбор того, что происходит с рекомендациями. Задача T-Lab №2.
+RL-дообучение последовательной рекомендательной модели (GPT-2) на данных KION (МТС): reward model по доле просмотра, GRPO с KL-штрафом к базовой модели и разбор того, что происходит с рекомендациями.
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/madina404/rl-fine-tuning-of-gpt-2-recommender-on-kion)
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-F37626?logo=jupyter&logoColor=white)](https://nbviewer.org/github/404iq/recsys-rl-finetuning/blob/main/solution.ipynb)
